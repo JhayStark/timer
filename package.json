@@ -1,7 +1,7 @@
 {
   "name": "count-down-timer",
   "version": "0.1.0",
-  "homepage": "http://JhayStark.github.io/timer",
+  "homepage": "https://JhayStark.github.io/timer",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
